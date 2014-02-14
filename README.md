@@ -1,7 +1,7 @@
 inherit.js
 ==========
 
-A tiny utility library for applying pseudo-classical inheritance
+A tiny utility library for applying pseudo-classical inheritance using the combination two techniques; Constructor stealing and prorotype chaining.
 
 The function accepts the following parameters:
 
