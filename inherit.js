@@ -42,4 +42,4 @@ var inheritJS = (function(){
 
             return eval(code);
         }
-});
+}());
